@@ -20,3 +20,6 @@ This script is used to map cities to Metropolitan Statastical Areas. This script
 
 
 # How it works
+
+
+https://www2.census.gov/programs-surveys/cbp/technical-documentation/reference/metro-area-geography-reference/msa_county_reference22.txt
